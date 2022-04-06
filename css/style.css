@@ -6611,7 +6611,10 @@ blockquote cite {
     display: inline-block;
 }
 .contacts_wrap .contact_info {
-    margin-bottom: 2em;
+    margin-bottom: 20px;
+    font-family: Fredoka One;
+    text-transform: uppercase;
+    font-size: 20px;
 }
 .contacts_wrap .contacts_address {
     overflow: hidden;

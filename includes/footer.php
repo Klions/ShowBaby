@@ -3,37 +3,22 @@
     <div class="contacts_wrap_inner">
         <div class="content_wrap">
             <div class="logo">
-                <a href="index.html">
+                <a href="/">
                     <img alt="" class="logo_footer" height="60" src="https://i.imgur.com/Ilkg5o3.png" width="121">
                 </a>
             </div>
             <div class="contact_info">
-                Estamos também nas redes sociais!!
+                Encontre-nos nas redes sociais!!
             </div>
             <div class="sc_socials sc_socials_type_images sc_socials_shape_square sc_socials_size_large">
                 <div class="sc_socials_item">
-                    <a class="social_icons social_twitter" href="#" target="_blank">
-                        <span class="sc_socials_hover"></span>
-                    </a>
-                </div>
-                <div class="sc_socials_item">
                     <a class="social_icons social_facebook" href="#" target="_blank">
-                        <span class="sc_socials_hover"></span>
+                        <i class="fab fa-facebook-f"></i>
                     </a>
                 </div>
                 <div class="sc_socials_item">
-                    <a class="social_icons social_vimeo" href="#" target="_blank">
-                        <span class="sc_socials_hover"></span>
-                    </a>
-                </div>
-                <div class="sc_socials_item">
-                    <a class="social_icons social_pinterest" href="#" target="_blank">
-                        <span class="sc_socials_hover"></span>
-                    </a>
-                </div>
-                <div class="sc_socials_item">
-                    <a class="social_icons social_linkedin" href="#" target="_blank">
-                        <span class="sc_socials_hover"></span>
+                    <a class="social_icons social_instagram" href="#" target="_blank">
+                        <i class="fab fa-instagram"></i>
                     </a>
                 </div>
             </div>
@@ -47,9 +32,9 @@
                 <figure class="sc_image alignright sc_image_shape_square">
                     <img alt="" src="images/Visa.png">
                 </figure>
-                <p>Grupo Show Baby © 2022 Todos os direitos reservados.
-                    <a href="#">Terms of Use</a> and
-                    <a href="#">Privacy Policy</a>
+                <p>Grupo Show Baby © 2022 - Todos os direitos reservados.
+                    <!--<a href="#">Terms of Use</a> and
+                    <a href="#">Privacy Policy</a>-->
                 </p>
             </div>
         </div>

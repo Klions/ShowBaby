@@ -3,25 +3,7 @@
 
 <head>
     <title>Contato &#8211; Show Baby</title>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link property="stylesheet" rel='stylesheet' href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700|Fredoka+One|Open+Sans:300,400,600,700,800|Raleway:100,200,300,400,500,600,700,800,900|Ubuntu:300,300i,400,400i,500,500i,700,700i&#038;ver=4.6.3' type='text/css' media='all' />
-    <link property="stylesheet" rel='stylesheet' href='css/socials.css' type='text/css' media='all' />
-    <link property="stylesheet" rel='stylesheet' href='css/fontello/css/fontello.css' type='text/css' media='all' />
-    <link property="stylesheet" rel='stylesheet' href='css/style.css' type='text/css' media='all' />
-    <link property="stylesheet" rel='stylesheet' href='css/core.animation.css' type='text/css' media='all' />
-    <link property="stylesheet" rel='stylesheet' href='css/theme.shortcodes.css' type='text/css' media='all' />
-    <link property="stylesheet" rel='stylesheet' href='css/theme.css' type='text/css' media='all' />
-    <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' />
-    <link property="stylesheet" rel='stylesheet' href='js/vendor/grid.layout/grid.layout.min.css' type='text/css' media='all' />
-    <link property="stylesheet" rel='stylesheet' href='css/custom/custom.css' type='text/css' media='all' />
-    <link property="stylesheet" rel='stylesheet' href='css/custom/plugins.css' type='text/css' media='all' />
-    <link property="stylesheet" rel='stylesheet' href='css/core.messages.css' type='text/css' media='all' />
-    <link rel="icon" href="images/cropped-big_favicon-32x32.png" sizes="32x32" />
-    <link rel="icon" href="images/cropped-big_favicon-192x192.png" sizes="192x192" />
-    <link rel="apple-touch-icon-precomposed" href="images/cropped-big_favicon-180x180.png" />
-    <meta name="msapplication-TileImage" content="images/cropped-big_favicon-270x270.png" />
-
+    <?php include('includes/head.php'); ?>
 </head>
 
 <body class="page contactus body_filled article_style_stretch scheme_original top_panel_above sidebar_hide wpb-js-composer vc_responsive">

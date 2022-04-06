@@ -78,6 +78,15 @@
 	margin: 0!important;
 }
 
+.social_icons {
+	color: #fff !important;
+	border-radius: 15px;
+	font-size: 20px;
+	border: solid 2px #fff;
+}
+.social_icons:hover {
+	opacity: .8;
+}
 
 .social_youtube,
 .social_youtube .sc_socials_hover {
@@ -89,8 +98,17 @@
 }
 .social_facebook,
 .social_facebook .sc_socials_hover {
-	background-image: url(../../images/facebook-h.png);
+	background-color: #395498;
 }
+.social_instagram,
+.social_instagram .sc_socials_hover {
+	background: #f09433; 
+	background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+	background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+	background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+}
+
 .social_vimeo,
 .social_vimeo .sc_socials_hover {
 	background-image: url(../../images/vimeo.png);
